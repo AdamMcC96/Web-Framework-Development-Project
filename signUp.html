@@ -3,8 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>Sign Up</title>
+    <link rel="stylesheet" a href="signUp.css">
 </head>
 <body>
-
+<div class="container">
+    <img src="img/user.png"/>
+    <form class="singup-form" action="signup.php" method="POST">
+        <input type="text" name="first" placeholder="Firstname">
+        <input type="text" name="last" placeholder="Lastname">
+        <input type="text" name="userid" placeholder="Username">
+        <input type="password" name="pass" placeholder="Password"><br>
+        <button type="submit" name="submit">Sign Up</button>
+    </form>
+</div>
 </body>
 </html>
