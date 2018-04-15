@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="454b291e-7405-4a60-be3c-caa785a3611f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/monsterReview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/carabaoOriginal.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/carabaoReview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/redbullOriginal.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/redbullReview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rockstarOriginal.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rockstarReview.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change beforePath="$PROJECT_DIR$/monsterOriginal.php" afterPath="$PROJECT_DIR$/monsterOriginal.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,26 +27,93 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="50">
+              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="monsterOriginal.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="monsterOriginal.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/monsterOriginal.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="56" column="71" lean-forward="false" selection-start-line="56" selection-start-column="71" selection-end-line="56" selection-end-column="71" />
+            <state relative-caret-position="550">
+              <caret line="58" column="83" lean-forward="false" selection-start-line="58" selection-start-column="83" selection-end-line="58" selection-end-column="83" />
               <folding>
-                <marker date="1523823676431" expanded="true" signature="543:562" ph="..." />
-                <marker date="1523823676431" expanded="true" signature="659:684" ph="..." />
-                <marker date="1523823676431" expanded="true" signature="668:684" ph="..." />
-                <marker date="1523823676431" expanded="true" signature="829:875" ph="..." />
-                <marker date="1523823676431" expanded="true" signature="846:875" ph="..." />
-                <marker date="1523823676431" expanded="true" signature="1176:1387" ph="..." />
+                <marker date="1523830706739" expanded="true" signature="605:624" ph="..." />
+                <marker date="1523830706739" expanded="true" signature="721:746" ph="..." />
+                <marker date="1523830706739" expanded="true" signature="730:746" ph="..." />
+                <marker date="1523830706739" expanded="true" signature="891:937" ph="..." />
+                <marker date="1523830706739" expanded="true" signature="908:937" ph="..." />
+                <marker date="1523830706739" expanded="true" signature="1238:1449" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rockstarOriginal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rockstarOriginal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="40" column="45" lean-forward="false" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+              <folding>
+                <marker date="1523831881941" expanded="true" signature="606:625" ph="..." />
+                <marker date="1523831881941" expanded="true" signature="722:747" ph="..." />
+                <marker date="1523831881941" expanded="true" signature="731:747" ph="..." />
+                <marker date="1523831881941" expanded="true" signature="893:939" ph="..." />
+                <marker date="1523831881941" expanded="true" signature="910:939" ph="..." />
+                <marker date="1523831881941" expanded="true" signature="1245:1452" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redbullOriginal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redbullOriginal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carabaoOriginal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carabaoOriginal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="62" column="38" lean-forward="true" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carabaoReview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carabaoReview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redbullReview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redbullReview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rockstarReview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rockstarReview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,63 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
+            <state relative-caret-position="1006">
               <caret line="109" column="1" lean-forward="false" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signUp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signUp.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signUp.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signUp.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <marker date="1523751918207" expanded="true" signature="1591:1638" ph="SELECT * FRO... user" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assignmentdb.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignmentdb.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signUp.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signUp.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -127,6 +148,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rockstar</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -138,10 +164,16 @@
         <option value="$PROJECT_DIR$/assignmentdb.php" />
         <option value="$PROJECT_DIR$/signUp.html" />
         <option value="$PROJECT_DIR$/signUp.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/index.css" />
-        <option value="$PROJECT_DIR$/monsterOriginal.php" />
         <option value="$PROJECT_DIR$/monsterReview.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/rockstarReview.html" />
+        <option value="$PROJECT_DIR$/redbullReview.html" />
+        <option value="$PROJECT_DIR$/monsterOriginal.php" />
+        <option value="$PROJECT_DIR$/redbullOriginal.php" />
+        <option value="$PROJECT_DIR$/carabaoReview.html" />
+        <option value="$PROJECT_DIR$/carabaoOriginal.php" />
+        <option value="$PROJECT_DIR$/rockstarOriginal.php" />
       </list>
     </option>
   </component>
@@ -248,7 +280,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
+    <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1030" />
   </component>
@@ -291,6 +323,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -319,12 +352,12 @@
       <updated>1523740120933</updated>
       <workItem from="1523740126774" duration="8011000" />
       <workItem from="1523802599952" duration="9036000" />
-      <workItem from="1523818358292" duration="4511000" />
+      <workItem from="1523818358292" duration="11156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21558000" />
+    <option name="totallyTimeSpent" value="28203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -448,12 +481,12 @@
         <state relative-caret-position="825">
           <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
           <folding>
-            <marker date="1523823676431" expanded="true" signature="543:562" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="659:684" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="668:684" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="829:875" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="846:875" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="1176:1387" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="605:624" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="721:746" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="730:746" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="891:937" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="908:937" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="1238:1449" ph="..." />
           </folding>
         </state>
       </provider>
@@ -552,16 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="109" column="1" lean-forward="false" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+        <state relative-caret-position="50">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -574,18 +599,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rockstarReview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redbullReview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/monsterOriginal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="56" column="71" lean-forward="false" selection-start-line="56" selection-start-column="71" selection-end-line="56" selection-end-column="71" />
+        <state relative-caret-position="550">
+          <caret line="58" column="83" lean-forward="false" selection-start-line="58" selection-start-column="83" selection-end-line="58" selection-end-column="83" />
           <folding>
-            <marker date="1523823676431" expanded="true" signature="543:562" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="659:684" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="668:684" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="829:875" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="846:875" ph="..." />
-            <marker date="1523823676431" expanded="true" signature="1176:1387" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="605:624" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="721:746" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="730:746" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="891:937" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="908:937" ph="..." />
+            <marker date="1523830706739" expanded="true" signature="1238:1449" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redbullOriginal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carabaoReview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carabaoOriginal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="62" column="38" lean-forward="true" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rockstarOriginal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="40" column="45" lean-forward="false" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+          <folding>
+            <marker date="1523831881941" expanded="true" signature="606:625" ph="..." />
+            <marker date="1523831881941" expanded="true" signature="722:747" ph="..." />
+            <marker date="1523831881941" expanded="true" signature="731:747" ph="..." />
+            <marker date="1523831881941" expanded="true" signature="893:939" ph="..." />
+            <marker date="1523831881941" expanded="true" signature="910:939" ph="..." />
+            <marker date="1523831881941" expanded="true" signature="1245:1452" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1006">
+          <caret line="109" column="1" lean-forward="false" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

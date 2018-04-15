@@ -7,7 +7,7 @@ if($_POST){
     $pricePaid = $_POST['price'];
     $rating = $_POST['rating'];
     $photo = $_POST['photo'];
-    $handle = fopen("monsterReview.html","a");
+    $handle = fopen("redbullReview.html","a");
     fwrite($handle, "<b>" . $name . ' (' . $date . ') ' . "(" . $rating . " stars) " . "</b>:<br/>" . "<b>Retailer(s): </b>" . $location . "<br>" . "<b>Price paid: </b>" . $pricePaid . "<br>" . $summary . "<br>" . "<img src=" . $photo . "><br>");
     fclose($handle);
 }
@@ -23,7 +23,7 @@ if($_POST){
 <header>
     <div class="container">
         <div id="branding">
-            <h1><span class="highlight">Monster Original</span> Review</h1>
+            <h1><span class="highlight">Red Bull Original</span> Review</h1>
         </div>
         <nav>
             <ul>
@@ -36,18 +36,18 @@ if($_POST){
 </header>
 <section id="single">
     <div class="box">
-    <img src="img/monsterOriginal.png" border="1">
-        <p><b><u>Monster Energy Original</u></b><br>
+        <img src="img/redbullOriginal.png" border="1">
+        <p><b><u>Red Bull Energy Original</u></b><br>
             <b>Price Range:</b> €1.50 - €3<br>
-        <b>Summary:</b> Monster Energy is an energy drink introduced by Hansen Natural Company in April 2002.
+            <b>Summary:</b> Rockstar (stylized as ROCKST★R or ЯR) is an energy drink created in 2001.
         </p>
     </div>
     <div class="details">
         <h2>Description</h2>
-        <p> Tear into a can of the meanest energy supplement on the planet, MONSTER energy. We went down to the lab and cooked up a double shot of our killer energy brew. It´s a wicked mega hit that delivers twice the buzz of a regular energy drink. MONSTER packs a vicious punch but has a smooth flavor you can really pound down.</p>
+        <p> Rockstar Energy Drink is designed for those who lead active lifestyles – from Athletes to Rock Stars. Rockstar supports the Rockstar lifestyle across the globe through Action Sports, Motor Sports, and Live Music.</p>
         <br>
         <h2>Ingredients</h2>
-        <p>Carbonated water, sucrose, glucose, citric acid, natural flavors, taurine, sodium citrate,color added, panax ginseng root extract, L-carnitine, caffeine, sorbic acid, benzoic acid, niacinamide, sodium chloride, Glycine max glucuronolactone, inositol, guarana seed extract, pyridoxine hydrochloride, sucralose, riboflavin, maltodextrin, and cyanocobalamin</p>
+        <p>Carbonated Water, Sucrose, Glucose, Citric Acid, Taurine, Natural and Artificial Flavors, Sodium Citrate, Caffeine, Caramel Color, Benzoic Acid, Sorbic Acid, L-Carnitine, Inositol, Niacinamide, Calcium Pantothenate, Milk, Thistle Extract, Ginkgo Biloba Leaf Extract, Guarana Seed Extract, Panax Ginseng Root Extract, Riboflavin, Pyridoxine Hydrochloride, Cyanocobalamin.</p>
     </div>
 </section>
 <form action="" method="POST">
@@ -60,6 +60,6 @@ if($_POST){
     Photo: <input type="file" name="photo" accept="image/*"><br>
     <input type = "submit" value="Post!"><br/>
 </form>
-<?php include "monsterReview.html"; ?>
+<?php include "redbullReview.html"; ?>
 </body>
 </html>

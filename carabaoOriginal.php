@@ -7,7 +7,7 @@ if($_POST){
     $pricePaid = $_POST['price'];
     $rating = $_POST['rating'];
     $photo = $_POST['photo'];
-    $handle = fopen("monsterReview.html","a");
+    $handle = fopen("carabaoReview.html","a");
     fwrite($handle, "<b>" . $name . ' (' . $date . ') ' . "(" . $rating . " stars) " . "</b>:<br/>" . "<b>Retailer(s): </b>" . $location . "<br>" . "<b>Price paid: </b>" . $pricePaid . "<br>" . $summary . "<br>" . "<img src=" . $photo . "><br>");
     fclose($handle);
 }
@@ -23,7 +23,7 @@ if($_POST){
 <header>
     <div class="container">
         <div id="branding">
-            <h1><span class="highlight">Monster Original</span> Review</h1>
+            <h1><span class="highlight">Carabao Original</span> Review</h1>
         </div>
         <nav>
             <ul>
@@ -36,18 +36,18 @@ if($_POST){
 </header>
 <section id="single">
     <div class="box">
-    <img src="img/monsterOriginal.png" border="1">
-        <p><b><u>Monster Energy Original</u></b><br>
-            <b>Price Range:</b> €1.50 - €3<br>
-        <b>Summary:</b> Monster Energy is an energy drink introduced by Hansen Natural Company in April 2002.
+        <img src="img/carabaoOriginal.png" border="1">
+        <p><b><u>Carabao Energy Original</u></b><br>
+            <b>Price Range:</b> €1.00 - €2.50<br>
+            <b>Summary:</b> Carabao Energy Drink is a Thai energy drink launched in 2002 by Carabao Tawandang Co Ltd
         </p>
     </div>
     <div class="details">
         <h2>Description</h2>
-        <p> Tear into a can of the meanest energy supplement on the planet, MONSTER energy. We went down to the lab and cooked up a double shot of our killer energy brew. It´s a wicked mega hit that delivers twice the buzz of a regular energy drink. MONSTER packs a vicious punch but has a smooth flavor you can really pound down.</p>
+        <p>Carabao Original is a refreshing and great tasting low sugar energy drink, designed to give you the energy you need to achieve your everyday goals.</p>
         <br>
         <h2>Ingredients</h2>
-        <p>Carbonated water, sucrose, glucose, citric acid, natural flavors, taurine, sodium citrate,color added, panax ginseng root extract, L-carnitine, caffeine, sorbic acid, benzoic acid, niacinamide, sodium chloride, Glycine max glucuronolactone, inositol, guarana seed extract, pyridoxine hydrochloride, sucralose, riboflavin, maltodextrin, and cyanocobalamin</p>
+        <p>Carbonated Water, Sucrose, Citric Acid, Taurine (0.3%), Flavourings, Aspartame, Stevia (Sweeteners), Caffeine (0.032%), Inositol, Niacin, Pantothenic Acid, Vitamin B6, Vitamin B12, Riboflavin, Caramel (Colour), Sodium Benzoate (Preservative)</p>
     </div>
 </section>
 <form action="" method="POST">
@@ -60,6 +60,6 @@ if($_POST){
     Photo: <input type="file" name="photo" accept="image/*"><br>
     <input type = "submit" value="Post!"><br/>
 </form>
-<?php include "monsterReview.html"; ?>
+<?php include "carabaoReview.html"; ?>
 </body>
 </html>
