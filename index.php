@@ -1,7 +1,38 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: adamm
- * Date: 14/04/2018
- * Time: 22:16
- */
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <div id="branding">
+            <h1><span class="highlight">Energy Drink</span> Review</h1>
+        </div>
+        <nav>
+            <ul>
+                <li class="current"><a href="index.php">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="signup.html">Sign Up</a></li>
+            </ul>
+        </nav>
+    </div>
+
+</header>
+<section id="left">
+<ul>
+    <li>
+        <div class="box">
+            <h3>Monster Energy Original</h3>
+        <a href="monsterOriginal.php"> <img src="img/monsterOriginal.png"></a>
+
+        </div>
+    </li>
+</ul>
+</section>
+</body>
+</html>

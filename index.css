@@ -1,0 +1,110 @@
+body{
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header{
+    background: url("img/fire.png");
+    color:#ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #ff9933 3px solid;
+}
+
+header a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header #branding{
+    float: left;
+}
+
+header #branding h1{
+    margin: 0;
+}
+
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+
+header .highlight, header .current a{
+    color: #ff9933;
+    font-weight: : bold;
+}
+
+header a:hover {
+    color: #aacd4e;
+    font-weight: bold;
+}
+#left img{
+    width: 97.5px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#left ul {
+    list-style: none;
+}
+#left li {
+    display: inline;
+}
+
+#left p {
+    float: left;
+    padding-left: 2px;
+    padding-bottom: 0px;
+}
+#left h3 {
+    text-align: center;
+    color: #ff9933;
+}
+#left .box {
+    float: left;
+    text-align: left;
+    width: 400px;
+    padding: 10px;
+}
+#left .box b {
+    color: #ff9933;
+}
+#single .box {
+     padding-left: 350px;
+     padding-top: 10px;
+ }
+#single .box p {
+    padding-left: 300px;
+    padding-top: 100px;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+#single img {
+    width: 97.5px;
+    height: 200px;
+    float: left;
+    padding: 75px;
+    border-color: #27ae60;
+}
+#single {
+    display: grid;
+}
+#single .details {
+    background-color: #e6e6e6;
+
+}
