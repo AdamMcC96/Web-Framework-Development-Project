@@ -1,9 +1,9 @@
 <?php
 if (isset($_POST['submit'])) { // if submit was pressed
     include_once 'assignmentdb.php';
-    $first = mysqli_real_escape_string($conn, $_POST['first']); // adds first name to datbase (all code is converted to text for security)
-    $last = mysqli_real_escape_string($conn, $_POST['last']); // adds first name to datbase (all code is converted to text for security)
-    $username = mysqli_real_escape_string($conn, $_POST['username']); // adds userid to datbase (all code is converted to text for security)
+    $first = mysqli_real_escape_string($conn, $_POST['first']); // adds first name to database (all code is converted to text for security)
+    $last = mysqli_real_escape_string($conn, $_POST['last']); // adds first name to database (all code is converted to text for security)
+    $username = mysqli_real_escape_string($conn, $_POST['username']); // adds userid to database (all code is converted to text for security)
     $email = mysqli_real_escape_string($conn, $_POST['email']); // adds email to datbase (all code is converted to text for security)
     $pass = mysqli_real_escape_string($conn, $_POST['pass']); // adds pass to datbase (all code is converted to text for security)
 
@@ -31,7 +31,7 @@ if (isset($_POST['submit'])) { // if submit was pressed
             } else {
                 $hashedPass = password_hash($pass, PASSWORD_DEFAULT); // hash the password
 
-                $sql = "INSER INTO user VALUES ('$username','$hashedPass','$first','$last','$email');";
+                $sql = "INSERT INTO user VALUES ('$username','$hashedPass','$first','$last','$email');";
                 mysqli_query($conn, $sql);
                 header("Location: signup.html?signup=successful");
 
